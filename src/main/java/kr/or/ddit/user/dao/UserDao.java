@@ -1,9 +1,6 @@
 package kr.or.ddit.user.dao;
 
 import java.util.List;
-import java.util.Map;
-
-import javax.websocket.Session;
 
 import org.apache.ibatis.session.SqlSession;
 import org.slf4j.Logger;
