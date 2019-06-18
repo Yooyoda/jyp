@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
 encoding//src/main/java=utf-8
+encoding//src/main/java/kr/or/ddit/encrypt/kisa/aria/ARIAEngine.java=UTF-8
+encoding//src/main/java/kr/or/ddit/encrypt/kisa/aria/ARIAUtil.java=UTF-8
 encoding//src/test/java=utf-8
